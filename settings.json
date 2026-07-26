@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Play-Betrayel.aternos.me",
-    "port": 34131,
+    "ip": "betrayal-s1.play.hosting",
+    "port": 3124,
     "version": "1.20.1",
     "try-creative": false
   },
